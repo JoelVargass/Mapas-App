@@ -80,17 +80,17 @@ const styles = StyleSheet.create({
   },
   imagen: {
     width: '100%',
-    height: 100,
-    borderRadius: 5,
+    height: 150,
+    borderRadius: 3,
   },
   titulo: {
-    fontSize: 16,
+    fontSize: 18,
     fontWeight: 'bold',
     marginTop: 5,
   },
   descripcion: {
-    fontSize: 12,
-    color: 'gray',
+    fontSize: 14,
+    color: '#383838',
   },
 });
 
